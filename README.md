@@ -26,13 +26,17 @@ Hi, Im Ro.
 
 ### Here are the technologies and languages i know:
 - Assembly (X86 and NASM, Though i could pick a new assembly language up in an hour or two)
+- BASIC (My skills are a bit rusty)
 - C
 - C++
 - C#
 - CSS
 - HTML
 - Javascript
+- MongoDB (I've done some stuff with python and Mongodb)
 - OpenGL
 - Python
 - React.js
 - SDL (Simple Direct Media Layer is a graphics library for C and C++)
+- Unity2D
+- Unity3D
