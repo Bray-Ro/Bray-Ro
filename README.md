@@ -24,7 +24,7 @@ Hi, Im Ro.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ive been programming since i was 8
 
-### Here are the technologies and languages i know:
+### Here are the technologies and languages i have intermediate to advanced knowledge in:
 - Assembly (X86 and NASM, Though i could pick a new assembly language up in an hour or two)
 - BASIC (My skills are a bit rusty)
 - C
