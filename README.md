@@ -23,3 +23,15 @@ Hi, Im Ro.
 - 📫 How to reach me: Get creative
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ive been programming since i was 8
+
+### Here are the technologies and languages i know:
+- Assembly (X86 and NASM, Though i could pick a new assembly language up in an hour or two)
+- C
+- C++
+- C#
+- CSS
+- HTML
+- Javascript
+- OpenGL
+- Python
+- React.js
