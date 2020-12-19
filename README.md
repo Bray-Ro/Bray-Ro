@@ -35,3 +35,4 @@ Hi, Im Ro.
 - OpenGL
 - Python
 - React.js
+- SDL (Simple Direct Media Layer is a graphics library for C and C++)
