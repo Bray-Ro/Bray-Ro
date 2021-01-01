@@ -20,7 +20,7 @@ Hi, Im Ro.
 - 👯 I’m looking to collaborate on Nothing at the moment
 - 🤔 I’m looking for help with Nothing at the Moment
 - 💬 Ask me about Anything related to C. I know about RPG game design and some C++. Not very good with OOP though.
-- 📫 How to reach me: Get creative
+- 📫 How to reach me: dont
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Ive been programming since i was 8
 
