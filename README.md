@@ -27,6 +27,7 @@ Hi, Im Ro.
 ### Here are the technologies and languages i have intermediate to advanced knowledge in:
 - Assembly (X86 and NASM, Though i could pick a new assembly language up in an hour or two)
 - BASIC (My skills are a bit rusty)
+- Blender (Not programming related but helps with gamedev)
 - C
 - C++
 - C#
@@ -40,6 +41,7 @@ Hi, Im Ro.
 - SDL (Simple Direct Media Layer is a graphics library for C and C++)
 - Unity2D
 - Unity3D
+
 
 
 For some reason when i first joined this site i made repos for lots of stupid Javascript and Python projects that were prototypes for things (Like Online games, Pygame, Using CSS ect..). I need to private these repos so please ignore them.
