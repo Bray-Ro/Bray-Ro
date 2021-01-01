@@ -28,7 +28,8 @@ Hi, Im Ro.
 - Assembly (X86 and NASM, Though i could pick a new assembly language up in an hour or two)
 - BASIC (My skills are a bit rusty)
 - Blender (Not programming related but helps with gamedev)
-- C
+- Bootstrap (The web development library)
+- C 
 - C++
 - C#
 - CSS
@@ -37,8 +38,10 @@ Hi, Im Ro.
 - MongoDB (I've done some stuff with python and Mongodb)
 - OpenGL
 - Python
+- Pygame
 - React.js
 - SDL (Simple Direct Media Layer is a graphics library for C and C++)
+- Tkinter (A library for python)
 - Unity2D
 - Unity3D
 
