@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 Hi, Im Ro.
 - 🔭 I’m currently working on many things, The most important of witch are an RPG in unity and a game engine in C and C++
-- 🌱 I’m currently studying X86 Assembly language and attempting to make DOS games
+- 🌱 Currently Learning COBOL
 - 👯 I’m looking to collaborate on Nothing at the moment
 - 🤔 I’m looking for help with Nothing at the Moment
 - 💬 Ask me about Anything related to C. I know about RPG game design and some C++. Not very good with OOP though.
 - 📫 How to reach me: dont
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Ive been programming since i was 8
+
 
 ### Here are the technologies and languages i have intermediate to advanced knowledge in:
 - Assembly (X86 and NASM, Though i could pick a new assembly language up in an hour or two)
@@ -35,8 +35,9 @@ Hi, Im Ro.
 - CSS
 - HTML
 - Javascript
+- JSON
 - MongoDB (I've done some stuff with python and Mongodb)
-- OpenGL
+- OpenGL (Not great with it, SDL is my prefered graphics library)
 - Python
 - Pygame
 - React.js
@@ -44,7 +45,7 @@ Hi, Im Ro.
 - Tkinter (A library for python)
 - Unity2D
 - Unity3D
-
-
+- XML
+I love working with old technologies and learning about how old computers work, I also enjoy game development.
 
 For some reason when i first joined this site i made repos for lots of stupid Javascript and Python projects that were prototypes for things (Like Online games, Pygame, Using CSS ect..). I need to private these repos so please ignore them.
