@@ -25,7 +25,6 @@ Hi, Im Ro.
 
 
 ### Here are the technologies and languages i have intermediate to advanced knowledge in:
-- NASM Assembly (X86 and NASM (I think there identicle, im not completely sure), Though i could pick a new assembly language up in an hour or two)
 - X86 Assembly
 - 2816 Assembly (My own Architecture for the Commander 64 Fantasy Computer)
 - NASM Assembly (Pretty sure its identicle to X86, Not sure)
