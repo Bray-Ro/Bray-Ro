@@ -25,7 +25,12 @@ Hi, Im Ro.
 
 
 ### Here are the technologies and languages i have intermediate to advanced knowledge in:
-- Assembly (X86 and NASM, Though i could pick a new assembly language up in an hour or two)
+- NASM Assembly (X86 and NASM (I think there identicle, im not completely sure), Though i could pick a new assembly language up in an hour or two)
+- X86 Assembly
+- 2816 Assembly (My own Architecture for the Commander 64 Fantasy Computer)
+- NASM Assembly (Pretty sure its identicle to X86, Not sure)
+- 6502 Assembly (Not great at it, The 6502 is a weird Architecture to use when used to X86)
+
 - BASIC (My skills are a bit rusty)
 - Blender (Not programming related but helps with gamedev)
 - Bootstrap (The web development library)
