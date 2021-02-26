@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 Hi, Im Ro.
 - 🔭 I’m currently working on many things, The most important of witch are an RPG in unity and a game engine in C and C++
-- 🌱 Currently Learning COBOL
+- 🌱 Currently Learning about data compression
 - 👯 I’m looking to collaborate on Nothing at the moment
 - 🤔 I’m looking for help with Nothing at the Moment
 - 💬 Ask me about Anything related to C. I know about RPG game design and some C++. Not very good with OOP though.
