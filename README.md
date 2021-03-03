@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, Im Ro.
-- 🔭 I’m currently working on many things, The most important of witch are an RPG in unity and a game engine in C and C++
+- 🔭 I’m currently working on many things, I cant tell you some of them.....
 - 🌱 Currently Learning about data compression
 - 👯 I’m looking to collaborate on Nothing at the moment
 - 🤔 I’m looking for help with Nothing at the Moment
