@@ -50,6 +50,16 @@ Hi, Im Ro.
 - Unity3D
 - XML
 
-I love working with old technologies and learning about how old computers work, I also enjoy game development.
+### Goals for 2021
+- Creating a C compiler
+- Writing a 3D polygon rasterization engine
+- Learning more about data compression
+- Learning more about networking
 
-For some reason when i first joined this site i made repos for lots of stupid Javascript and Python projects that were prototypes for things (Like Online games, Pygame, Using CSS ect..). I need to private these repos so please ignore them.
+### Things im bad at
+Here is some things im currently bad at but really want to get better at.
+- Networking
+- UI
+- APIs
+- Writing clean code
+I love working with old technologies and learning about how old computers work, I also enjoy game development.
