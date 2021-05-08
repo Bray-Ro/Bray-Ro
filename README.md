@@ -21,7 +21,6 @@ Hi, Im Ro.
 - 🤔 I’m looking for help with Nothing at the Moment
 - 💬 Ask me about Anything related to C. I know about RPG game design and some C++. Not very good with OOP though.
 - 📫 How to reach me: dont
-- 😄 Pronouns: He/Him
 
 
 ### Here are the technologies and languages i have intermediate to advanced knowledge in:
