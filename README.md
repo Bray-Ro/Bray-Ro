@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Hi, Im Ro.
-- 🔭 I’m currently working on many things, I cant tell you some of them.....
+- 🔭 I’m currently working on A JSON parser
 - 🌱 Currently Learning about data compression
 - 👯 I’m looking to collaborate on Nothing at the moment
 - 🤔 I’m looking for help with Nothing at the Moment
